@@ -101,3 +101,6 @@ The server response will include an execution_log showing each task that ran and
   ]
 }
 ```
+
+### 5. Logging
+All task executions and their outcomes are logged to the console for easy debugging and monitoring. You can see the logs in the terminal where you started the server. Each log entry includes the task name and its result (e.g., "success", "failure", "error"). This allows you to trace the flow execution in real-time and identify any issues quickly.
