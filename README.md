@@ -1,7 +1,7 @@
 # Flow Manager Microservice
 
 ## Overview
-The Flow Manager is a lightweight, dynamic orchestration microservice built with FastAPI. It operates as a state machine, executing tasks sequentially based on a completely decoupled JSON configuration. This architecture separates the **configuration** (the map) from the **execution** (the code), allowing for highly flexible, dynamic workflows without hardcoding logic.
+The Flow Manager is a lightweight, dynamic orchestration microservice built with FastAPI. It operates as a state machine, executing tasks sequentially based on a completely decoupled JSON configuration. This architecture separates the configuration (the map) from the execution (the code), allowing for highly flexible, dynamic workflows without hardcoding logic.
 
 ---
 
